@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "139483929831",
+    "project_id": "smilegame-1fde8",
+    "storage_bucket": "smilegame-1fde8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:139483929831:android:a8d4fc3d08c153694a5642",
+        "android_client_info": {
+          "package_name": "com.example.smile_api_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "139483929831-35ka03n2eflfnocfabng41r2a3ts8q2g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFsRCILK8Sx7OnVFyZ-JjBU92VVuIgoZo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "139483929831-35ka03n2eflfnocfabng41r2a3ts8q2g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
