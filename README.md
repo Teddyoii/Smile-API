@@ -4,6 +4,9 @@ You are asked to develop a game using the ‘Smile’ API - https://marcconrad.c
 available in Java https://github.com/marcconrad/comparativeintegratedsystems and JavaScript
 https://marcconrad.com/uob/smile/ 
 
+![image](https://github.com/Teddyoii/Smile-API/assets/71376196/9d259025-f716-4083-a39f-7887359266e1)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
