@@ -1,6 +1,8 @@
 # smile_api_new
 
-A new Flutter project.
+You are asked to develop a game using the ‘Smile’ API - https://marcconrad.com/uob/smile/doc.php Basic examples are
+available in Java https://github.com/marcconrad/comparativeintegratedsystems and JavaScript
+https://marcconrad.com/uob/smile/ 
 
 ## Getting Started
 
